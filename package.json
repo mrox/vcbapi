@@ -1,0 +1,9 @@
+{
+  "name": "vcbapi",
+  "version": "1.0.0",
+  "description": "VCB API",
+  "main": "index.js",
+  "repository": "https://github.com/mrox/vcbapi.git",
+  "author": "Tuyen Tran",
+  "license": "MIT"
+}
